@@ -1,0 +1,21 @@
+/* setting the display property to none is a way to hide
+an element initially when the page is loaded (so that 
+you can reveal it later when the user performs a specific
+action) */
+
+.title {
+    display: none;
+/*     visibility: hidden; */
+}
+
+
+
+
+
+
+
+
+body {
+    font: 3em sans-serif;
+    margin: 2em 2em;
+}
